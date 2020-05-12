@@ -1,0 +1,14 @@
+img {
+	width:30%; /*relevant to body which equals 90% of page*/
+	float: left;
+	margin: 1.66%; /*10% left/3 (number of photos/boxes*/
+}
+
+p { font-family: raleway; 
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform:uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	width:30%;
+	padding-bottom:20px;}
